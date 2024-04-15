@@ -17,7 +17,7 @@ Sirve para obtener datos del servidor, como páginas web o recursos.
   GET /songs/getSongs
 ```
 
-#### POST
+### POST
 Sirve para enviar datos al servidor, como formularios o datos de carga.
 ```http
   POST /songs/createSong
